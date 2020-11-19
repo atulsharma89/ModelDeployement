@@ -1,1 +1,1 @@
-This Repository is created for storing codes related to ML Model deployement using Flask, Django, Swagger, FastAPI
+This Repository is created for storing codes related to ML Model deployment using Flask, Django, Swagger, FastAPI
